@@ -10,7 +10,7 @@ TPT is a three‑step, iterative workflow:
 
 1. **Think** – The model generates multiple, detailed solution traces.
 2. **Prune** – We automatically keep only the traces that reach the correct answer.
-3. 3. **Train** – The model fine‑tunes on this high‑quality synthetic data to boost its skills.
+3. **Train** – The model fine‑tunes on this high‑quality synthetic data to boost its skills.
 
 Loop the cycle → watch the model level up. ✨
 
